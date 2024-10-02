@@ -1,0 +1,157 @@
+ID,Date Reported,Description,Attack,Country,Link
+1,01/03/23,Poland’s tax service website is hit by a DDoS attack believed to have been carried out by Russian hackers.,DDoS,PL,Link
+2,01/03/23,"Researchers from Trend Micro reveal that the APT27 hacking group, aka ""Iron Tiger,"" has prepared a new Linux version of its SysUpdate custom remote access malware, to target more services used in the enterprise.",Targeted Attack,>1,Link
+3,01/03/23,Researchers of ESET reveal that the developers of the BlackLotus UEFI bootkit have improved the malware with Secure Boot bypass capabilities that allow it to infected even Windows 11 systems from CVE-2022-21894.,Malware,>1,Link
+4,01/03/23,"Researchers from Cyble reveal that the carding marketplace known as BidenCash has leaked online a free database of 2,165,700 debit and credit cards in celebration of its first anniversary.",Unknown,>1,Link
+5,01/03/23,Researchers from Kroll discover a malicious Python package uploaded to the Python Package Index (PyPI) that contained a fully-featured information stealer and remote access trojan tracked as Colour-Blind.,Malware,>1,Link
+6,01/03/23,"Researchers from EclecticIQ discover a campaign targeting the maritime industry, using spear phishing emails to Agent Tesla and Formbook.",Malware,>1,Link
+7,01/03/23,The insurance company Group 1001 restores the operations after suffering a ransomware attack.,Malware,US,Link
+8,01/03/23,Codman Square Health Center files a notice of data breach after learning that a ransomware attack targeting the company’s IT system compromised confidential patient information.,Malware,US,Link
+9,01/03/23,The Hospital of Parma suffers a cyber attack.,Unknown,IT,Link
+10,02/03/23,British retailer WH Smith suffers a data breach that exposes information belonging to current and former employees.,Unknown,UK,Link
+11,02/03/23,Researchers from ESET reveal that the Chinese cyber espionage hacking group Mustang Panda was seen deploying a new custom backdoor named 'MQsTTang' in attacks starting this year.,Targeted Attack,TW UA,Link
+12,02/03/23,"CISA and the FBI issue a joint advisory highlighting the increasing threat behind ongoing Royal ransomware attacks targeting many U.S. critical infrastructure sectors, including healthcare, communications, and education.",Malware,>1,Link
+13,02/03/23,"The Sandbox blockchain game warns its community that a security incident caused some users to receive fraudulent emails impersonating the game, trying to infect them with malware.",Account Takeover Malware,>1,Link
+14,02/03/23,Researchers from Wiz warn of a widespread redirection campaign in which thousands of websites targeting East Asian audiences have been compromised using legitimate FTP credentials.,Account Takeover,>1,Link
+15,02/03/23,"Hackers breach GunAuction.com, a website that allows people to buy and sell guns, exposing the identities of 550,000 users.",Unknown,US,Link
+16,02/03/23,"Researchers from Cado Labs discover a novel cryptojacking campaign targeting insecure deployments of Redis. Underpinning this campaign was the use of transfer.sh, a free and open source command line file transfer service.",Misconfiguration,>1,Link
+17,02/03/23,Researchers from Trend Micro discover a campaign targeting the hospitality sector and using Dropbox to release the malicious file.,Malware,>1,Link
+18,02/03/23,"The Porter Police Department suffers a ""network security incident"".",Unknown,US,Link
+19,02/03/23,"Bettuzzi And Partners, an Italian accounting firm is hit with a RansomEXX ransomware attack.",Malware,IT,Link
+20,03/03/23,"The BianLian ransomware group claims to have stolen employee information, including passport details, as well as information on the company's partners, data on park-related incidents, financial records, internal emails and legal documents from Parques Reunidos Group, a Spanish amusement park company.",Malware,ES,Link
+21,03/03/23,The city of Lille is disrupted by a cyberattack that partially affects the operation of public services.,Unknown,FR,Link
+22,03/03/23,"Personal information belonging to some 15,000 Denver Public Schools (DPS) employees was stolen in what the district is calling a ""cybersecurity incident"" that went on for a month.",Unknown,US,Link
+23,03/03/23,Henrico Doctors' Hospital notifies 990 patients that some of their protected health information was compromised in a data breach.,Unknown,US,Link
+24,03/03/23,A cyberattack disrupts Houston Healthcare's operations.,Unknown,US,Link
+25,03/03/23,"The official web forum of The Pirate Bay, Suprbay.org, is the latest victim of an apparent cyberattack that forced its site to remain offline for several days.",Unknown,N/A,Link
+26,03/03/23,Gaston College posts a “System Interruption” notice after the school confirmed that it was the victim of a ransomware attack,Malware,US,Link
+27,04/03/23,The Vice Society ransomware group adds the Hamburg University of Applied Sciences (HAW Hamburg) to its leak site following an attack that the institution said took place late last year.,Malware,DE,Link
+28,04/03/23,The SeigedSec hacking group claims to have defaced the tourist website for the Faroe Islands – a self-governing territory of the Kingdom of Denmark — and to have stolen employee data and other sensitive information.,Defacement,DK,Link
+29,04/03/23,"A threat actor publishes 83,000 records allegedly stolen from Vodafone NL.",Unknown,NL,Link
+30,05/03/23,Northern Essex Community College remains shuttered after suffering a cyberattack.,Unknown,US,Link
+31,05/03/23,"Flutterwave, Africa’s largest startup by private valuation, is involved in a hack that results in more than ₦2.9 billion (~$4.2 million) missing from its accounts.",Account Takeover,NG,Link
+32,05/03/23,"A database called Covid-19 allegedly from the Ministry of Public Health in Ecuador has been listed for sale on a popular forum by KelvinSecurity, however the Ministry denies to have suffered any breach.",Unknown,EC,Link
+33,06/03/23,AT&T notifies roughly 9 million customers that some of their information was exposed after a marketing vendor was hacked in January.,Unknown,US,Link
+34,06/03/23,Researchers from Black Lotus Lab discover a new campaign called 'Hiatus' targeting DrayTek Vigor router models 2960 and 3900 to steal data from victims and build a covert proxy network.,Vulnerability,>1,Link
+35,06/03/23,Researchers from SentinelOne discover phishing campaigns that distribute the Remcos RAT using the DBatLoader malware loader to target predominantly Eastern European institutions and businesses.,Malware,>1,Link
+36,06/03/23,"The Hospital Clínic de Barcelona suffers a RansomHouse ransomware attack, severely disrupting its healthcare services after the institution's virtual machines were targeted by the attacks.",Malware,ES,Link
+37,06/03/23,"Researchers from Metabase Q discover FiXS, a new malware family targeting ATMs in Latin America, and specifically banks in Mexico.",Malware,MX,Link
+38,06/03/23,Researchers from Kaspersky disclose a surge in attacks on ICS computers in Russia and blames it on the exploitation of a Bitrix CMS vulnerability tracked as CVE-2022-27228.,CVE-2022-27228 vulnerability,RU,Link
+39,06/03/23,Researchers from Bitdefender  warn of a fresh phishing campaign that uses copycat ChatGPT platform to swindle eager investors.,Account Takeover,AU DE DK IE NL,Link
+40,06/03/23,The City of Waynesboro is hit with a BianLian ransomware attack and leaks 350 GB of data.,Malware,US,Link
+41,06/03/23,Researchers from Flashpoint discover a private loader named “AresLoader” advertised for sale on the top-tier Russian-language hacking forum XSS.,Malware,>1,Link
+42,06/03/23,Texas Medical Liability Trust (TMLT) files a notice of data breach after learning that confidential consumer information entrusted to the company was leaked in a recent cybersecurity incident.,Unknown,US,Link
+43,06/03/23,DeFi platform Algodex reveals that a malicious actor infiltrated a company wallet during the early hours of the previous morning.,Unknown,N/A,Link
+44,06/03/23,The Russian collective NoName057(16) launches a new campaign against several websites in Italy.,DDoS,IT,Link
+45,07/03/23,Researchers from Proofpoint discover a disinformation campaign targeting individuals who have spoken out against Putin’s invasion and involving them in fake conversations to support the Russian President.,Disinformation,>1,Link
+46,07/03/23,Taiwanese computer giant Acer confirms that it suffered a data breach after threat actors hacked a server hosting private documents used by repair technicians and leaked 160GB of data.,Unknown,TW,Link
+47,07/03/23,"The same attacker publishes a 12 Gb archive file allegedly containing certificate files, command logs, system configurations and information logs, filesystem archives, scripts, and backup configuration data stolen from Acronis.",Unknown,CH,Link
+48,07/03/23,Researchers from Cofense and the Emotet-tracking group Cryptolaemus warn that the Emotet botnet had once again resumed sending emails.,Malware,>1,Link
+49,07/03/23,"Researchers from Check Point reveal that the Sharp Panda cyber-espionage group is targeting high-profile government entities in Vietnam, Thailand, and Indonesia with a new version of the ‘Soul’ malware framework.",Targeted Attack,VN TH ID,Link
+50,07/03/23,The FBI is investigating a data breach affecting U.S. House of Representatives members and staff after their account and sensitive personal information was stolen from DC Health Link's servers.,Unknown,US,Link
+51,07/03/23,"Researchers from Mandiant discover UNC4540, a suspected Chinese hacking campaign targeting unpatched SonicWall Secure Mobile Access (SMA) appliances to install custom malware that establishes long-term persistence for cyber espionage campaigns.",Vulnerability,>1,Link
+52,07/03/23,"Essendant, a wholesale distributor of stationery and office supplies, notifies to be experiencing a multi-day systems ""outage"" preventing customers and suppliers from placing and fulfilling online orders. Few days after the LockBit ransomware gang claims responsibility for the attack.",Malware,US,Link
+53,07/03/23,Fortinet reveals that unknown attackers used zero-day exploits to abuse a new FortiOS bug patched this month in attacks targeting government and large organizations that have led to OS and file corruption and data loss.,CVE-2022-41328 Vulnerability,>1,Link
+54,07/03/23,"Researchers from Morphisec share details on Sys01 Stealer, an information stealer observed targeting the Facebook accounts of critical government infrastructure employees.",Malware,>1,Link
+55,07/03/23,A group known as Dark Angels claims to have stolen 3 terabytes of corporate and employee information from controversial Brazilian multinational Andrade Gutierrez.,Unknown,BR,Link
+56,07/03/23,"The systems of Attent Zorg en Behandeling, a care facility in the Netherlands, are hacked by the notorious Qilin ransomware group.",Malware,NL,Link
+57,07/03/23,"Researchers from ESET discover an active Transparent Tribe campaign, targeting mostly Indian and Pakistani Android users, presumably with a military or political orientation, via the CapraRAT distributed through rogue secure messaging apps in a romance scam.",Malware,IN PK,Link
+58,07/03/23,SundaySky files a notice of data breach following a cybersecurity incident in which an unauthorized party copied files containing confidential consumer information.,Unknown,US,Link
+59,07/03/23,"Bone & Joint began notifies current and former patients and employees of a data breach after experiencing a reported “network outage,” resulting in sensitive information in the company’s possession being compromised.",Unknown,US,Link
+60,07/03/23,"Northeast Surgical Group notifies 15,298 patients of a HIPAA breach, deriving from a BianLian ransomware attack.",Malware,US,Link
+61,07/03/23,Nearly 7 GB of data from the Council of Grenada are posted online by the GhostSec group.,Unknown,ES,Link
+62,08/03/23,"Researchers from Microsoft reveal the details of a business email compromise (BEC) attack in which attackers moved rapidly, with some steps taking mere minutes.",Business Email Compromise,N/A,Link
+63,08/03/23,"A Canadian engineering giant Black & McDonald, working with critical military, power and transportation infrastructure across the country is hit with a ransomware attack.",Malware,CA,Link
+64,08/03/23,"CISA adds three actively exploited flaws in Teclib GLPI, Apache Spark, and Zoho ManageEngine ADSelfService Plus to its Known Exploited Vulnerabilities Catalog.","CVE-2022-35914, CVE-2022-33891, CVE-2022-28810 Vulnerabilities",US,Link
+65,08/03/23,Researchers from Fortinet discover the mining group 8220 Gang using a new crypter called ScrubCrypt in cryptojacking attacks.,Malware,>1,Link
+66,08/03/23,"Akamai claims to have mitigated the largest DDoS attack ever, which peaked at 900.1 gigabits per second.",DDoS,N/A,Link
+67,08/03/23,"A hacker using the alias Kernelware leaks 7.5 GB of customer data with over 72 million entries belonging to HDB Financial Services, a subsidiary of India’s largest private bank, HDFC Bank.",Unknown,IN,Link
+68,08/03/23,Researchers from ReliaQuest discover a new campaign by the Initial Access Broker Exotic Lily.,Malware,>1,Link
+69,08/03/23,"Researchers at DeepSee and Malwarebytes identify DeepStreamer, an invalid traffic scheme undetected for over one year via a number of illegal video streaming platforms.",Ad fraud,>1,Link
+70,08/03/23,Researchers from AhnLab discover the active distribution of the GlobeImposter ransomware carried out by the threat actors behind MedusaLocker through the exploitation of RDP.,Malware,>1,Link
+71,08/03/23,Beaver Medical Group (BMG) files a notice of data breach after discovering that a successful email phishing attack provided an unauthorized party with access to files containing confidential patient information.,Account Takeover,US,Link
+72,08/03/23,"Wichita Urology Group notifies 1,493 individuals that unauthorized individuals gained access to its network and potentially viewed or obtained files containing names, prescription information, billing information, and health insurance information.",Unknown,US,Link
+73,08/03/23,Eurovision fans who have booked rooms for May's song contest in Liverpool are having their data put at risk by scammers targeting hotel chains.,Account Takeover,UK,Link
+74,08/03/23,The Italian IT company Exprivia suffers a possible ransomware attack.,Malware,IT,Link
+75,09/03/23,Researchers from Sentinel One discover a novel Linux versions of the IceFire ransomware being deployed within the enterprise network intrusions of several media and entertainment sector organizations worldwide.,Malware,>1,Link
+76,09/03/23,"The FBI warns that cybercriminals are now using fake rewards in so-called ""play-to-earn"" mobile and online games to steal millions worth of cryptocurrency.",Play-to-earn scam,US,Link
+77,09/03/23,"Researchers from Sophos reveal the details of 'retro', a campaign by the Chinese group Mustang Panda using USB drives laden with PlugX to target people in Mongolia, Papua New Guinea, Ghana, Zimbabwe, and Nigeria.",Malware,MN PG GH ZW NG,Link
+78,09/03/23,Hawaii’s Department of Health says it is sending out breach notification letters after a cyberattack in January gave hackers limited access to the state’s death registry.,Account Takeover,US,Link
+79,09/03/23,Researchers at ASEC (AhnLab Security Emergency response Center) observe threat actors deploying the PlugX malware by exploiting vulnerabilities in the Chinese remote control software Sunlogin and Awesun.,Multiple vulnerabilities,N/A,Link
+80,09/03/23,"Researchers from Cisco Talos discover a new version of the Prometei botnet infecting more than 10,000 systems worldwide since November 2022.",Multiple vulnerabilities,>1,Link
+81,09/03/23,"Audio-Technica, the Japanese audio equipment manufacturer, is uploaded to LockBit’s dark-web blog, suggesting the company may have been breached by the notorious ransomware gang.",Malware,JP,Link
+82,09/03/23,"Researchers from Secureworks discover that female human rights activists are being targeted by a Cobalt Illusion, a state-backed threat group posing as a fellow campaigner to steal their personal data, possibly with the intention of passing it on to the Islamist regime in Iran.",Account Takeover,IR,Link
+83,09/03/23,"Bishop Luffa School, a British secondary school, has student data exposed after a likely ransomware attack by the Medusa gang.",Malware,UK,Link
+84,09/03/23,Researchers from Mandiant expose a campaign targeting Western Media and Technology companies from a suspected North Korean espionage group tracked as UNC2970.,Targeted Attack,>1,Link
+85,09/03/23,"Multiple security companies, including Sophos and Trellix discover a new campaign distributing Qakbot via OneNote documents.",Malware,>1,Link
+86,09/03/23,Researchers from eSentire discover a new campaign carried out via the malware downloader known as BATLOADER abusing Google Ads to deliver secondary payloads like Vidar Stealer and Ursnif.,Malware,>1,Link
+87,09/03/23,Merced College (MCCD) files a notice of data breach after learning that a ransomware attack resulted in confidential student information being exposed to an unauthorized party.,Malware,US,Link
+88,09/03/23,Trinity Health Corporation files a notice of data breach after learning that a phishing incident resulted in the confidential information of tens of thousands of patients being leaked.,Account Takeover,US,Link
+89,09/03/23,The data from the Autoridad para la Reconstrucción con Cambios (ARCC) are listed by a new group called Dark Power.,Unknown,PE,Link
+90,09/03/23,The Clinica Santa Chiara di Locarno is hit with a cyber attack.,Unknown,CH,Link
+91,10/03/23,"Researchers from ThreatFabric discover a new version of the Xenomorph Android malware that adds significant capabilities to conduct malicious attacks, including a new automated transfer system (ATS) framework and the ability to steal credentials for 400 banks.",Malware,>1,Link
+92,10/03/23,"CISA adds CVE-2021-39144, a critical severity vulnerability in VMware's Cloud Foundation, to its catalog of security flaws exploited in the wild.",CVE-2021-39144 Vulnerability,US,Link
+93,10/03/23,"Researchers from Palo Alto Networks discover GoBruteforcer, a new Golang-based botnet malware scanning and infecting web servers running phpMyAdmin, MySQL, FTP, and Postgres services.",Brute-force,>1,Link
+94,10/03/23,Researchers from EcleticIQ reveal that the suspected government-backed hackers Dark Pink are attacking military and government organizations in South Asia with malware called KamiKakaBot that is designed to steal sensitive information.,Malware,>1,Link
+95,10/03/23,Medical technology developer Zoll Medical notifies roughly one million individuals that their personal information might have been compromised in a recent data breach.,Unknown,US,Link
+96,10/03/23,Florida Medical Clinic (FMC) files a notice of data breach after learning that unauthorized actors gained access to the FMC computer system following a ransomware attack.,Malware,US,Link
+97,10/03/23,"Community Health Systems Professional Services Company (CHSPSC) files a notice of data breach after the organization learned that a cybersecurity event at Fortra, one of the company’s vendors, subjected patient information to unauthorized access.",CVE-2023-0669 Fortra GoAnywhere MFT Vulnerability,US,Link
+98,10/03/23,The university hospital center (CHU) of Brest-Carhaix is the subject of a cyberattack.,Unknown,FR,Link
+99,10/03/23,Wilkes-Barre Career and Technical Center in Pennsylvania reportedly thwarts a cyber attack with backup procedures and by shutting down its network.,Malware,US,Link
+100,10/03/23,The Municipality of Turate in Italy is hit with a cyber attack.,Unknown,IT,Link
+101,11/03/23,"CISA adds CVE-2020-5741, an almost three-year-old high-severity remote code execution (RCE) vulnerability in the Plex Media Server to its catalog of security flaws exploited in attacks.",CVE-2020-5741 Vulnerability,US,Link
+102,11/03/23,The Clop ransomware gang begins extorting companies whose data was stolen using a zero-day vulnerability in the Fortra GoAnywhere MFT secure file-sharing solution.,CVE-2023-0669 Fortra GoAnywhere MFT Vulnerability,>1,Link
+103,11/03/23,Centre Hospitalier Universitaire (CHU) Saint-Pierre in Belgium is hit with a cyber attack.,Unknown,BE,Link
+104,11/03/23,The Grupo Hospitalar Vida is hit with a LockBit ransomware attack.,Malware,BR,Link
+105,11/03/23,Schrader Camargo is listed in the site of the LockBit 3.0 ransomware gang.,Malware,CO,Link
+106,11/03/23,"Bontà Viva, an Italian dairy, is listed in the site of the LockBit 3.0 ransomware gang.",Malware,IT,Link
+107,12/03/23,"The ransomware operation known as Medusa begins to pick up steam in 2023, targeting corporate victims worldwide with million-dollar ransom demands.",Malware,>1,Link
+108,12/03/23,"GSC Game World, the developer of the ‘STALKER 2: Heart of Chornobyl’ game, warns their systems were breached, allowing threat actors to steal game assets during the attack.",Account Takeover,UA,Link
+109,12/03/23,Shopee and Carousell users in Taiwan are the victims of a phishing campaign.,Account Takeover,TW,Link
+110,13/03/23,The National Cyber Security Centre-Estonia (NCSC-EE) reveals that the parliamentary elections were unsuccessfully targeted by cyberattacks.,Unknown,EE,Link
+111,13/03/23,"Lending protocol Euler Finance is hit by a cryptocurrency flash loan attack, with the threat actor stealing $197 million in multiple digital assets.",Flash loan,N/A,Link
+112,13/03/23,"Multiple security researchers and security companies report that threat actors are exploiting the Silicon Valley Bank collapse, registering suspicious domains that are very likely to be used in attacks.",Account Takeover,US,Link
+113,13/03/23,The Play ransomware group adds the Dutch maritime logistics company Royal Dirkzwager to its list of its victims.,Malware,NL,Link
+114,13/03/23,Microsoft warns of large-scale phishing attacks orchestrated with an open-source adversary-in-the-middle (AiTM) phishing kit available in the cybercrime ecosystem.,Account Takeover,>1,Link
+115,13/03/23,"The KalvinSecurity hacker group shares hundreds of documents online containing information on the development of the Sputnik V COVID-19 vaccine, with some including the names of deceased participants of its clinical trials.",Unknown,RU,Link
+116,13/03/23,Researchers from Trend Micro discover a new Emotet campaign using binary padding to avoid detection.,Malware,>1,Link
+117,13/03/23,"Researchers from CloudSEK reveal that threat actors have been increasingly observed using AI-generated YouTube Videos to spread a variety of stealer malware such as Raccoon, RedLine, and Vidar.",Malware,>1,Link
+118,13/03/23,"After an email phishing attack, AllCare Plus Pharmacy reports that 5,971 patients potentially had their protected health information (PHI) exposed.",Account Takeover,US,Link
+119,13/03/23,"Lubrimetal, an Italian chemical firm, is hit with a LockBit ransomware attack.",Malware,IT,Link
+120,13/03/23,The Guam Memorial Hospital is hit wth a cyber attack.,Unknown,US,Link
+121,14/03/23,"Researchers from BlackBerry reveal that the Russian state-backed group known as Nobelium is behind recent attempted cyberattacks on diplomatic entities and government agencies in the European Union via phishing emails with a malicious document attached, using the Polish Foreign Minister’s recent visit to the US as a lure.",Targeted Attack,>1,Link
+122,14/03/23,"Researchers from Cisco Talos discover a new threat actor named 'YoroTrooper' running cyber-espionage campaigns since at least June 2022, targeting government and energy organizations in Commonwealth of Independent States (CIS) countries, embassies and EU health care agency.",Targeted Attack,>1,Link
+123,14/03/23,The  Federal Bureau of Investigation (FBI) reveals that Americans are increasingly targeted in 'pig butchering' cryptocurrency investment schemes.,Pig-butchering scam,US,Link
+124,14/03/23,"Microsoft patches CVE-2023-24880, a zero-day used by attackers to circumvent the Windows SmartScreen cloud-based anti-malware service and deploy Magniber ransomware.",CVE-2023-24880 Vulnerability,CN HK KR MY SG TW EU,Link
+125,14/03/23,"Microsoft patches an Outlook zero-day vulnerability (CVE-2023-23397) exploited by APT28, the hacking group linked to Russia's military intelligence service GRU to target European organizations.",CVE-2023-23397 Vulnerability,>1,Link
+126,14/03/23,Cybersecurity company Rubrik confirms that its data was stolen using a zero-day vulnerability in the Fortra GoAnywhere secure file transfer platform.,CVE-2023-0669 Fortra GoAnywhere MFT Vulnerability,US,Link
+127,14/03/23,"Independent Living Systems (ILS), a Miami-based healthcare administration and managed care solutions provider, discloses a data breach that exposed the personal information of 4,226,508 individuals.",Unknown,US,Link
+128,14/03/23,"Researchers from Check Point reveal that the Android malware 'FakeCalls' is circulating again in South Korea, imitating phone calls for over 20 financial organizations and attempting to fool bankers into giving away their credit card details.",Malware,KR,Link
+129,14/03/23,"The smart doorbell and security camera company Ring is allegedly hit with a BlackCat ransomware attack, despite the company denied it was hit.",Malware,US,Link
+130,14/03/23,"Wymondham College, the largest state boarding school in the United Kingdom, announces that it had been hit by a “sophisticated cyberattack”.",Unknown,UK,Link
+131,14/03/23,The LockBit ransomware group claims to have stolen valuable SpaceX files after breaching the systems of piece part production company Maximum Industries.,Malware,US,Link
+132,14/03/23,"Researchers from ESET disclose a campaign by the notorious Chinese cyberespionage group known as Tick, targeting a data loss prevention (DLP) company that serves military and other government organizations.",Targeted Attack,N/A,Link
+133,14/03/23,"Marshall, a British amplifier and speaker-cabinet maker, is added to the victim list of ransomware gang Black Basta’s dark-web blog.",Malware,UK,Link
+134,14/03/23,"Researchers from Cyble discover GoatRAT, an Android banking Trojan targeting Brazilian banks.",Malware,BR,Link
+135,14/03/23,"NorthStar Emergency Medical Services discloses a breach that might have given bad actors access to the records of more than 80,000 current and former patients.",Unknown,US,Link
+136,14/03/23,Voya Financial Advisors (VFA) files a notice of data breach after learning that sensitive consumer information stored on the company’s computer system was accessible to an unauthorized party.,Account Takeover,US,Link
+137,14/03/23,"Kernelware postes data from PetroVietnam, a state-owned oil and gas group.",Unknown,VN,Link
+138,14/03/23,Kernelware posts data from Long Son Petrochemicals,Unknown,VN,Link
+139,14/03/23,Kernelware postes data from POSCO Engineering & Construction.,Unknown,VN,Link
+140,14/03/23,A threat actor leaks some data allegedly stolen from the Italian engineering company Fincantieri. A subsequent analysis reveals that the data was stolen from a third party.,Account Takeover,IT,Link
+141,15/03/23,"Researchers from Crowdstrike discover The first known cryptojacking operation mining the Dero coin, targeting vulnerable Kubernetes container orchestrator infrastructure with exposed APIs.",Misconfiguration,>1,Link
+142,15/03/23,"The CISA, FBI, and MS-ISAC reveal that a U.S. federal agency's Microsoft Internet Information Services (IIS) web server was hacked by exploiting a critical .NET deserialization vulnerability in the Progress Telerik UI for ASP.NET AJAX component.",CVE-2019-18935 vulnerability,US,Link
+143,15/03/23,"CISA adds CVE-2023-26360, a critical vulnerability impacting Adobe ColdFusion versions 2021 and 2018, to its catalog of security bugs exploited in the wild.",CVE-2023-26360 Vulnerability,US,Link
+144,15/03/23,A convincing Twitter scam is targeting bank customers by abusing the quote-tweet feature.,Account Takeover,>1,Link
+145,15/03/23,"Researchers from Avast reveal that cybercriminals are abusing Adobe Acrobat Sign, an online document signing service, to distribute the redline info-stealing malware to unsuspecting users.",Malware,>1,Link
+146,15/03/23,"An unknown hacker offers up a cache of 60GB of sensitive files, allegedly stolen from Deutsche Bank by the infamous LockBit ransomware gang.",Unknown,DE,Link
+147,15/03/23,"Researchers from WithSecure discover a threat activity clusters affiliated with the Chinese and Russian cybercriminal ecosystems using SILKLOADER, a new piece of malware designed to load Cobalt Strike onto infected machines.",Malware,BR FR TW,Link
+148,15/03/23,"Researchers from Check Point discover a new piece of malware dubbed dotRunpeX used to distribute numerous known malware families such as Agent Tesla, Ave Maria, BitRAT, FormBook, LokiBot, NetWire, Raccoon Stealer, RedLine Stealer, Remcos, Rhadamanthys, and Vidar.",Malware,>1,Link
+149,15/03/23,Kroger Postal Prescription Services (Kroger PPS) files a notice of data breach after learning that confidential consumer information in the company’s possession was subject to unauthorized access.,Unknown,US,Link
+150,15/03/23,The Health Sector Cybersecurity Coordination Center (HC3) issues a warning regarding the Black Basta ransomware group targeting the Healthcare sector.,Malware,US,Link
+151,15/03/23,"A forum user on BreachForums lists data from the HLA Grupo Hospitalario in Spain for sale. The listing advertises 45,000 patient records and information on 1,600 doctors, with samples provided of each.",Misconfiguration,ES,Link
+152,15/03/23,Autoridad de Acueductos y Alcantarillados (AAA) confirms it suffered a ransomware attack. The attack reportedly affects AAA’s electronic customer service systems.,Malware,PR,Link
+153,15/03/23,"An attacker steals $390,000 from cross-chain platform Poolz Finance",Vulnerability,N/A,Link
+154,15/03/23,The Municipality of Taggia in Italy is hit with a cyber attack.,Malware,IT,Link
+155,15/03/23,Researchers from ReliaQuest discover a new campaign using Qbot distributing the Black Basta ransomware.,Malware,N/A,Link
+156,15/03/23,Merritt Healthcare Advisors reports a phishing attack that exposed the data of some of its healthcare clients.,Account Takeover,US,Link
