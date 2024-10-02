@@ -7,17 +7,17 @@ Project Structure
 1. Data Preparation
 
 
-hackmageddon: Includes data and scripts from Hackmageddon, an online resource for cyber-attack statistics.
-Hackmageddon_sourcefromweb.xlsx: Source data retrieved from the Hackmageddon website.
-Hackmageddon.csv: Preprocessed dataset extracted from Hackmageddon.
-Nol_daily.csv & Nol_monthly.csv: Daily and monthly statistics datasets.
-Nol_daily.py & Nol_monthly.py: Python scripts for processing daily and monthly statistics into the required formats.
-monthly_Mentiondata: Scripts for handling mentions of cyber threats from various sources.
-A_NoM.py: Script for processing mentions data.
-API_Key.json: Contains necessary API keys for fetching external data.
-PH_July2011_April2024.csv: Preprocessed public holiday data for various countries from July 2011 to April 2024.
-Attacks_NoM_Jan2023_Apr2024.csv: Forecasted attack mentions data for the period from January 2023 to April 2024.
-python_holidy.py & holiday.py: Scripts for collecting and processing holiday data for different countries.
+	hackmageddon: Includes data and scripts from Hackmageddon, an online resource for cyber-attack statistics.
+	Hackmageddon_sourcefromweb.xlsx: Source data retrieved from the Hackmageddon website.
+	Hackmageddon.csv: Preprocessed dataset extracted from Hackmageddon.
+	Nol_daily.csv & Nol_monthly.csv: Daily and monthly statistics datasets.
+	Nol_daily.py & Nol_monthly.py: Python scripts for processing daily and monthly statistics into the required formats.
+	monthly_Mentiondata: Scripts for handling mentions of cyber threats from various sources.
+	A_NoM.py: Script for processing mentions data.
+	API_Key.json: Contains necessary API keys for fetching external data.
+	PH_July2011_April2024.csv: Preprocessed public holiday data for various countries from July 2011 to April 2024.
+	Attacks_NoM_Jan2023_Apr2024.csv: Forecasted attack mentions data for the period from January 2023 to April 2024.
+	python_holidy.py & holiday.py: Scripts for collecting and processing holiday data for different countries.
 
 
 
