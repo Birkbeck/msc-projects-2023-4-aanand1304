@@ -30,7 +30,9 @@ multivariate_Forecast.ipynb: Jupyter notebook for multivariate forecasting.
 multivariate_hp_optimisation.ipynb: Hyperparameter optimization for multivariate models.
 univariate_Forecast.ipynb: Jupyter notebook for univariate forecasting.
 univariate_hp_optimisation.ipynb: Hyperparameter optimization for univariate models.
-5. Plotting
+
+
+6. Plotting
 prediction_plot_univariate_multivariate: Contains scripts for generating forecast plots.
 multivariate_forecast_plot: Generates plots for multivariate forecast results.
 univariate_forecast_plot: Generates plots for univariate forecast results.
@@ -39,5 +41,5 @@ Validation_plot_univariate_multivariate: Scripts for generating validation plots
 multivariateplot: Generates validation plots for multivariate models.
 univariateplot: Generates validation plots for univariate models.
 SHAP_Plot: Scripts for generating SHAP plots to explain model predictions and show feature importance.
-6. Hyperparameters
+7. Hyperparameters
 hyperparameters_univariate_multivariate_optimization: Contains the best SMAPE values saved in JSON format for both univariate and multivariate models.
