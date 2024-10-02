@@ -1,5 +1,6 @@
-**Cyber Threat Forecasting Using Machine Learning
-**
+**Cyber Threat Forecasting Using Machine Learning**
+
+
 This project aims to forecast cyber threats using both univariate and multivariate machine learning approaches. The dataset incorporates cyber-attack data, public holidays, social media metrics, and other relevant features to predict future attack trends.
 
 Project Structure
