@@ -1,14 +1,3 @@
-"""
-Created on Jan 20 01:18:45 2023
-
-@author: Zaid Almahmoud
-
-The script below transforms the daily number of incidents (NoI) to monthly number of incidents
-
-Input: NoI_daily.csv
-Output: NoI_monthly.csv
-
-"""
 
 import sys
 import csv

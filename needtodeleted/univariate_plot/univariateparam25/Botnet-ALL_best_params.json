@@ -1,1 +1,0 @@
-{"SMAPE": 3.6554567787223746, "Best Parameters": {"alpha": 0.05, "beta": 1, "n_input": 3, "n_epochs": 200, "layer": 3, "units": [400, 200, 50], "dropout_rate": 0.15}}

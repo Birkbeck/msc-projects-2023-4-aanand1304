@@ -1,16 +1,4 @@
-"""
-Created on Jan 20 01:18:45 2023
 
-@author: Zaid Almahmoud
-
-The script below transforms textual hackmageddon data to numerical format
-by counting the number of incidents (NoI) for each attack type and for each country.
-The counting is on daily basis
-
-Input: Hackmageddon.csv
-Output: NoI_daily.csv
-
-"""
 
 import sys
 import csv
