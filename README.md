@@ -25,3 +25,42 @@ This project, titled **Forecasting Cyber Threats Using Machine Learning**, addre
 - **hyperparameters_univariate_multivariate**: Configurations and settings for tuning both univariate and multivariate models.
 - **prediction_plot_univariate_multivariate**: Prediction plots showcasing forecasted trends, enabling users to visually assess model accuracy.
 
+## Data Collection and Preprocessing
+
+**Data sources include:**
+
+- **Hackmageddon**: Aggregated records of cyber-attacks.
+- **Social Media and Internet Usage**: Monthly estimates based on growth trends in major platforms.
+- **Economic Indicators**: GDP growth rates by country, capturing economic factors influencing cyber threats.
+- **War and Conflict Events**: Synthetic data generated using GANs, representing the influence of geopolitical events on cyber-attack trends.
+
+The dataset is structured with **monthly granularity**, allowing for consistent and robust time-series forecasting.
+
+## Feature Selection and Engineering
+
+- **Univariate Forecasting**: Focuses on individual attack types, optimizing predictions for each specific cyber threat.
+- **Multivariate Forecasting**: Employs **BorutaPy** for feature selection to capture interactions among features, enhancing predictions for multiple attack types simultaneously.
+
+## Model Architecture and Training
+
+The core forecasting model uses **LSTM**, chosen for its ability to capture long-term dependencies in time-series data:
+
+- **LSTM-Dropout Architecture**: Integrates dropout layers to reduce overfitting.
+- **Monte Carlo Dropout**: Provides uncertainty estimates by generating multiple predictions with random neuron deactivation.
+- **Hyperparameter Tuning**: Optimized via **Random Search** for dropout rates, activation functions, batch sizes, and learning rates.
+
+## Evaluation Metrics and Results
+
+- **SMAPE (Symmetric Mean Absolute Percentage Error)**: Primary metric, chosen for its accuracy in evaluating time-series predictions.
+- **MAE (Mean Absolute Error)** and **RMSE (Root Mean Squared Error)**: Complementary metrics to assess model accuracy.
+- **Confidence Intervals**: Generated using Monte Carlo dropout, providing a measure of prediction reliability.
+
+## SHAP Model Explainability
+
+For interpretability, **SHAP (Shapley Additive Explanations)** values are calculated to explain each feature's impact on predictions. By providing insights into feature importance, SHAP analysis reveals which factors (e.g., social media activity, economic indicators, holidays) significantly affect cyber threats. This transparency enhances trust in the model and aids decision-makers in understanding critical factors.
+
+## Conclusion
+
+This project advances cyber threat forecasting by integrating diverse data sources and leveraging an **LSTM-based model** for long-term prediction. The inclusion of **SHAP** for model interpretability and **Monte Carlo dropout** for uncertainty estimation provides actionable insights that support a proactive cybersecurity approach. This framework enables organizations to better allocate resources, anticipate risks, and mitigate future cyber threats effectively.
+
+
