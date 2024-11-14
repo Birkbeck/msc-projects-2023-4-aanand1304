@@ -16,6 +16,7 @@ Results
 Conclusion
 
 **Project Structure**
+
 **1. Data_Preparation**
 Contains scripts and files for data cleaning, feature extraction, and preparation for model training. Key files include:
 
@@ -23,7 +24,7 @@ ExploratoryDataAnalysis: Scripts for initial data exploration, visualizations, a
 Twitter, hackmageddon, monthly_Mentiondata, other features: Feature extraction methods or additional data sources.
 python_holidy.py: Adds holiday-related data, potentially to adjust for seasonal or holiday effects.
 
-**2. Dataset****
+**2. Dataset**
 FinalDataset.csv: The main dataset used for model training and evaluation. Includes details on features, target variable, and any pre-processing steps required.
 
 **3. Model**
