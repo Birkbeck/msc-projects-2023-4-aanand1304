@@ -1,27 +1,53 @@
+Forecasting Cyber Threats Using Machine Learning
+
+Overview
+Provide a brief introduction to the project here, including the main objectives, the problem it addresses, and a quick overview of the methodologies and models used.
+
+Table of Contents
 Project Structure
-Data_Preparation:
+Setup Instructions
+Data Preparation
+Modeling
+SHAP Analysis
+Validation
+Hyperparameters
+Prediction and Visualization
+Results
+Conclusion
+Project Structure
+1. Data_Preparation
+Contains scripts and files for data cleaning, feature extraction, and preparation for model training. Key files include:
 
-ExploratoryDataAnalysis: Likely contains scripts or notebooks for initial data exploration.
-Twitter, hackmageddon, monthly_Mentiondata, other features: These may hold specific datasets or feature extraction scripts.
-python_holidy.py: A script, possibly for integrating holiday effects in the data.
-Dataset:
+ExploratoryDataAnalysis: Scripts for initial data exploration, visualizations, and data summaries.
+Twitter, hackmageddon, monthly_Mentiondata, other features: Feature extraction methods or additional data sources.
+python_holidy.py: Adds holiday-related data, potentially to adjust for seasonal or holiday effects.
+2. Dataset
+FinalDataset.csv: The main dataset used for model training and evaluation. Includes details on features, target variable, and any pre-processing steps required.
+3. Model
+Notebooks and scripts related to model training and hyperparameter optimization:
 
-FinalDataset.csv: The primary dataset used for model training and evaluation.
-Model:
+modelfinding: Scripts for model selection.
+multivariate_Forecast.ipynb: Notebook for multivariate forecasting.
+univariate_Forecast.ipynb: Notebook for univariate forecasting.
+multivariate_hp_optimisation.ipynb: Hyperparameter optimization for multivariate models.
+univariate_hp_optimisation.ipynb: Hyperparameter optimization for univariate models.
+4. SHAP_Plot
+Contains SHAP (SHapley Additive exPlanations) plots to visualize feature importance for various model predictions:
 
-modelfinding: May include model selection scripts.
-multivariate_Forecast.ipynb and univariate_Forecast.ipynb: Notebooks for forecasting using multivariate and univariate models, respectively.
-multivariate_hp_optimisation.ipynb and univariate_hp_optimisation.ipynb: Notebooks focused on hyperparameter optimization for the models.
-SHAP_Plot:
+Advance.png, Advare.png, Backdoor-ALL.png, etc.: SHAP plots by category (e.g., Malware, Phishing), showing feature impact on predictions.
+5. Validation_plot_univariate_multivariate
+Validation plots for model performance evaluation:
 
-Contains various SHAP plots (e.g., Advance.png, Malvertising-ALL.png) that visualize feature importance for different attack types or model predictions.
-Validation_plot_univariate_multivariate:
+multiVariateplot: Validation results for multivariate model predictions.
+univariateplot: Validation results for univariate model predictions.
+6. hyperparameters_univariate_multivariate
+Documents hyperparameters for each model:
 
-multiVariateplot and univariateplot: Directories that likely contain validation plots, showing how the model performs on different metrics for multivariate and univariate models.
-hyperparameters_univariate_multivariate:
+multivariate: Hyperparameter configurations for multivariate models.
+univariate: Hyperparameter configurations for univariate models.
+7. prediction_plot_univariate_multivariate
+Prediction visualizations:
 
-multivariate and univariate folders may include configurations or details about the hyperparameters used for each type of model.
-prediction_plot_univariate_multivariate:
-
-multivariate_forecast_plot and univariate_forecast_plot: Plots visualizing predictions from the respective models.
-other plot: Potentially additional plots showcasing different aspects of model predictions.
+multivariate_forecast_plot: Forecast plots for multivariate models.
+univariate_forecast_plot: Forecast plots for univariate models.
+other plot: Additional prediction plots.
